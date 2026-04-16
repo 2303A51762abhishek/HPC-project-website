@@ -1,0 +1,128 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "HEERA E VEHICLES",
+  "url": "https://www.heeraevehicles.in",
+  "logo": "https://www.heeraevehicles.in/logo2.jpg",
+  "image": "https://www.heeraevehicles.in/logo2.jpg",
+  "description": "Premium Electric Two-Wheelers Dealer in Dubbak, Telangana. Best Quality EV 2-Wheelers, Affordable Pricing, Expert Service, Free Test Drive & Financing Options Available.",
+  "telephone": "+91 99850 51120",
+  "email": "heeraevehicles@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1-52/1, Heera E Vehicles, By Pass Road",
+    "addressLocality": "Dubbak",
+    "addressRegion": "Telangana",
+    "postalCode": "502108",
+    "addressCountry": "IN",
+    "name": "Heera E Vehicles (Outlet)"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "17.3841",
+    "longitude": "79.1394"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Sales",
+      "telephone": "+91 99850 51120",
+      "areaServed": "Telangana, Andhra Pradesh"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Customer Support",
+      "email": "heeraevehicles@gmail.com"
+    }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/heera_e_vehicles_dubbak",
+    "https://www.youtube.com/@E-vehicles"
+  ],
+  "priceRange": "₹₹₹",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Dubbak"
+    },
+    {
+      "@type": "State",
+      "name": "Telangana"
+    },
+    {
+      "@type": "State",
+      "name": "Andhra Pradesh"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 500,
+    "bestRating": 5,
+    "worstRating": 1
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Rajesh Kumar"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Excellent service and best quality electric vehicles. Highly recommended for anyone looking to go green!",
+      "datePublished": "2025-11-15"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Priya Sharma"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      },
+      "reviewBody": "Best EV dealer in Dubbak. Amazing test drive experience and professional staff.",
+      "datePublished": "2025-10-20"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Arjun Patel"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.5"
+      },
+      "reviewBody": "Great selection of electric vehicles. Very helpful team that explains everything clearly.",
+      "datePublished": "2025-09-10"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "10:00",
+      "closes": "17:00"
+    }
+  ],
+  "knowsAbout": [
+    "Electric Two-Wheelers",
+    "EV Bikes",
+    "EV Scooters",
+    "Vehicle Financing",
+    "Test Drive",
+    "Vehicle Maintenance"
+  ],
+  "slogan": "Premium Electric Two-Wheelers in Dubbak, Telangana"
+}

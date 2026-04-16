@@ -1,0 +1,23 @@
+{
+  "buildCommand": "pnpm run vercel-build",
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "heeraevehicles.in"
+        }
+      ],
+      "destination": "https://www.heeraevehicles.in/:path*",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/((?!api).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
